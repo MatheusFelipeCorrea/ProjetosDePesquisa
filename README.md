@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="/g12.png"/>
+<img align="right" height="200" src="https://i.imgur.com/rE9Hb5K.png"/>
 
 ###
 
